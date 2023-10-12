@@ -1,8 +1,10 @@
 ## Oi, eu sou o Orestes Lucas, ex aluno de Sistemas de Informação (SI) e graduando em Análise e Desenvolvimento de Sistemas (ADS)! 👋
 
-- 🔭 Hoje busco desenvolver projetos pessoais
-- 🌱 Realizando diversos cursos para aprofundar meus conhecimentos e repertórios
-- 👯 Quero colaborar com funcionalidades e layouts front-end
+- 🔭 Hoje busco desenvolver projetos pessoais,
+- 🌱 Realizando diversos cursos para aprofundar meus conhecimentos e repertórios,
+- 👯 Quero colaborar com funcionalidades e layouts front-end, e a construção de funcionalidades back-end,
+- 📑 Atualmente no terceiro período de Análise e Desenvolvimento de Sistemas,
+- 👷 Possuo proficiência em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C.
 ##
 <div align="center">
   <a href="https://github.com/frigidev">
@@ -17,6 +19,7 @@
   <img align="center" alt="frigidev-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="frigidev-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="frigidev-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  
           
 </div
 ##
