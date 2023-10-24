@@ -1,9 +1,10 @@
 ## Oi, eu sou o Orestes Lucas, ex aluno de Sistemas de Informação (SI) e graduando em Análise e Desenvolvimento de Sistemas (ADS)! 👋
 
-- 🔭 Hoje busco desenvolver projetos pessoais,
+  Atualmente estou:
+
 - 🌱 Realizando diversos cursos para aprofundar meus conhecimentos e repertórios,
 - 👯 Quero colaborar com funcionalidades e layouts front-end,
-- 📑 Atualmente no terceiro período de Análise e Desenvolvimento de Sistemas,
+- 📑 No terceiro período de Análise e Desenvolvimento de Sistemas,
 - 👷 Possuo conhecimento em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C.
 ##
 <div align="center">
