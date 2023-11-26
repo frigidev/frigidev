@@ -5,7 +5,7 @@
 - 🌱 Realizando diversos cursos para aprofundar meus conhecimentos e repertórios,
 - 👯 Querendo colaborar com funcionalidades e layouts front-end,
 - 📑 No terceiro período de Análise e Desenvolvimento de Sistemas,
-- 👷 Possuo conhecimento em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C.
+- 👷 Possuo conhecimento em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C.
 ##
 <div align="center">
   <a href="https://github.com/frigidev">
