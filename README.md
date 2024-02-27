@@ -16,7 +16,7 @@
   Atualmente estou:
 
 - 🌱 Realizando diversos cursos para aprofundar meus conhecimentos e repertórios,
-- 👯 Buscando colaborar com funcionalidades e layouts frontend e backend,
+- 👯 Buscando colaborar com funcionalidades e layouts frontend e funcionalidades e aplicações backend,
 - 📑 No terceiro período de Análise e Desenvolvimento de Sistemas,
 - 👷 Possuo conhecimento em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C, e conhecimento em estruturas de dados.
 ##
