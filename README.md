@@ -1,4 +1,4 @@
-## About me. English ver.
+## About me.
 
 ## Hi, I'm Orestes Lucas, and I'm currently an IT student.
 
