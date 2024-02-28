@@ -9,7 +9,7 @@
 - 📑 In the third period of my IT graduation,
 - 👷 I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL and various development tools, as well as a base of programming logic and C language, and knowledge of data structures.
 
-## Sobre mim. PT/BR
+## Sobre mim.
 
 ## Oi, me chamo Orestes Lucas, e sou graduando em Análise e Desenvolvimento de Sistemas (ADS).
 
