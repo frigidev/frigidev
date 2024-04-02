@@ -6,8 +6,9 @@
 
 - 🌱 Taking several courses to deepen my knowledges and repertoires,
 - 👯 Seeking to collaborate with frontend functionalities and layouts, and backend functionalities,
-- 📑 In the third period of my IT graduation,
-- 👷 I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL and various development tools, as well as a base of programming logic and C language, and knowledge of data structures.
+- 📑 In the third period of my IT graduation.
+
+I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL and various development tools, as well as a base of programming logic and C language, and knowledge of data structures.
 
 ## Sobre mim.
 
@@ -17,8 +18,9 @@
 
 - 🌱 Realizando diversos cursos para aprofundar meus conhecimentos e repertórios,
 - 👯 Buscando colaborar com funcionalidades e layouts frontend e funcionalidades e aplicações backend,
-- 📑 No terceiro período de Análise e Desenvolvimento de Sistemas,
-- 👷 Possuo conhecimento em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C, e conhecimento em estruturas de dados.
+- 📑 No terceiro período de Análise e Desenvolvimento de Sistemas.
+
+Possuo conhecimento em algumas tecnologias como: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL e em diversas ferramentas de desenvolvimento, além de uma base de lógica de programação e em linguagem C, e conhecimento em estruturas de dados.
 ##
 <div align="center">
   <a href="https://github.com/frigidev">
