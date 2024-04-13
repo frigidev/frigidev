@@ -8,7 +8,7 @@
 - 👯 Seeking to collaborate with frontend functionalities and layouts, and backend functionalities,
 - 📑 In the third period of my IT graduation.
 
-I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL and various development tools, as well as a base in C language and a robust programming logic, and knowledge of data structures.
+I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL, Angular, TypeScript and various development tools, as well as a base in C language and a robust programming logic, and knowledge of data structures.
 
 <div align="center">
   <a href="https://github.com/frigidev">
