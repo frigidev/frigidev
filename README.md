@@ -45,7 +45,8 @@ I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript,
   <img align="center" alt="frigidev-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="frigidev-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="frigidev-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="frigidev-SQLDeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">          
+  <img align="center" alt="frigidev-SQLDeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="frigidev-GitHub" height="40" width="40" src="https://github.com/frigidev/frigidev/assets/116716916/fca193b5-41ee-403c-b29d-13c425db979c">   
 </div>
 
 ## Currently studying
@@ -59,7 +60,7 @@ I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript,
 
 ## Goal
 
-My goal is to contribute and treat society's pain through technology, mathematics and logic.
+My goal is to contribute and treat society's pain through technology, mathematics and programming logic.
 
 ##
 
