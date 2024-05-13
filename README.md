@@ -5,7 +5,7 @@
   I'm currently:
 
 - 🌱 Taking several courses to deepen my knowledges and repertoires,
-- 👯 Seeking to collaborate with frontend functionalities and layouts, and backend functionalities,
+- 👯 Seeking to collaborate with frontend & backend applications/programs,
 - 📑 In the third period of my IT graduation.
 
 I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL, Angular, TypeScript and various development tools, as well as a base in C language and a robust programming logic, and knowledge of data structures.
