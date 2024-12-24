@@ -6,7 +6,7 @@
 
 - 🌱 Taking several courses to deepen my knowledges and repertoires,
 - 👯 Seeking to collaborate with frontend & backend applications/programs,
-- 📑 In the 4th period of my IT graduation.
+- 📑 In the 5th period of my IT graduation.
 
 I have knowledge of some technologies such as: HTML, CSS, Bootstrap, JavaScript, Java, UML, SQL, PL/SQL, Angular, Ionic, TypeScript and various development tools, as well as a base in C language and a robust programming logic, and knowledge of data structures.
 
